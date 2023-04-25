@@ -1,0 +1,30 @@
+body{
+    background-color: lightgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 40px;
+    padding: 20px;
+    text-align: center;
+}
+
+ul{
+    text-align: left;
+}
+
+ol{
+    text-align: left;
+}
+
+h3{
+    text-align: left;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#top{
+    text-decoration: underline;
+}
